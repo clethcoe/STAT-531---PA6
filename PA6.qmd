@@ -1,8 +1,8 @@
 ---
 title: "Practice Activity 6"
-author: "Owen Bachhuber, Corban Lethcoe, Magdalene Lo, Sarah Jennings"
 format: html
 editor: source
+author: "Owen Bachhuber, Corban Lethcoe, Magdalene Lo, Sarah Jennings"
 self-contained: true
 ---
 
