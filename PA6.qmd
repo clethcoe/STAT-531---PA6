@@ -2,6 +2,7 @@
 title: "Practice Activity 6"
 format: html
 editor: source
+author: "STAT 531 grad students"
 self-contained: true
 ---
 
